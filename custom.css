@@ -1441,7 +1441,7 @@ body:not(.loading) #team_menu.active {
  	background-color: #222;
     color: #DDD;
 }
-.c-virtual_list__item, .c-virtual_list__sticky_container {
+.c-virtual_list__item, .c-virtual_list__sticky_container, .c-virtual_list__scroll_container {
     background-color: #222 !important
 }
 
