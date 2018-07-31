@@ -36,6 +36,10 @@ limitations under the License.
    --scrollbar-border: var(--primary);
 }
 
+.c-virtual_list__item, .c-virtual_list__sticky_container, .c-virtual_list__scroll_container {
+    background-color: #222 !important
+}
+
 h1, h2, h3, h4 {
   color: var(--text);
 }
