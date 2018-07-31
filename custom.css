@@ -1454,6 +1454,10 @@ body:not(.loading) #team_menu.active {
 a.c-message__sender_link {
     color: #EEE !important
 }
+
+.c-member_slug, .c-member_slug--link {
+    background-color: #444 !important;
+}
 .unread_empty_state_message {
     color: #EEE;
 }
