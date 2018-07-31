@@ -1443,7 +1443,10 @@ body:not(.loading) #team_menu.active {
     color: #DDD;
 }
 .c-virtual_list__item {
-    color: #CCC !important
+    background-color: #222 !important
+}
+.p-message_pane {
+    background-color: #222 !important
 }
 .c-message__body {
     color: #CCC
